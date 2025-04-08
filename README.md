@@ -12,7 +12,7 @@ A responsive and user-friendly form validation system ensuring accurate user inp
 - [Get in Touch 📩](#contact)
 
 ## Demo
-Check out the live demo of the website: [Form Validations](https://waqasahmed042.github.io/form-validations/)
+Check out the live demo of the website: [Form Validations](https://codewithabubakr.github.io/form-validations/)
 
 ## Features
 - Essential Features for an Effective Login & Signup Form.
@@ -60,4 +60,4 @@ To view or edit the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/waqasahmed042/form-validations.git
+   git clone https://github.com/CodeWithAbuBakr/form-validations.git
