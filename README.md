@@ -1,5 +1,5 @@
 # Form Validations
-A responsive and user-friendly form validation system ensuring accurate user input with real-time feedback, error handling, password strength checks, email validation, and required field alerts for a seamless user experience. 🚀
+A responsive and user-friendly form validation system ensuring accurate user input with real-time feedback, error handling, password strength checks, email validation, and required field alerts for a seamless user experience. 🚀 
 
 ## Table of Contents
 - [Live Demo 🌐](#demo)
